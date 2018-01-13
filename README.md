@@ -16,3 +16,6 @@ Throne of Lies unofficial AutoHotKey script to draw a death note based on extern
 - Only supports fullscreen 1920x1080
 - You can replace `image.png`
 - Recommended image dimensions: below 100x100
+
+# Dependency
+- [tariqporter/Gdip](https://github.com/tariqporter/Gdip)
