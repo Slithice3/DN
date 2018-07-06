@@ -104,7 +104,7 @@ Loop, %pixels%
         drawBegin := 0
     }
 }
-
+Esc::ExitApp  ;
 ; Clean resources
 GDIP_DisposeImage(pBM)
 GDIP_Shutdown(GDIPToken)
